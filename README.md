@@ -1,40 +1,12 @@
-### Hi there 👋
+### hello ✨✨
 
----
-hero:
-  title: QianYuan X
-  description: 基于antd 4.x 的 React UI 前端组件库 
-  actions:
-    - text: 立即上手
-      link: /guide
-    - text: 组件文档
-      link: /components/modal
-features:
-  - title: 学习
-    emoji: 💎
-    description: 只有你在学习的时候，才能一直进步
-  - title: 分享
-    emoji: 🌈
-    description: 代码的快乐是一种享受
-  - title: 成长
-    emoji: 🌱
-    description: 成长的过程，也是积累的过程
-  - title: 积累
-    emoji: 🚀
-    description: 水滴石穿，积水成渊 ！
----
+This is a sunny big boy born in the 2000s
 
+- 🔭 Just a FrontEnd Rookies ...
+- 🎵 Like listening to G.E.M's songs 
+- 💎 Want to go see G.E.M concert with someone I like
+- 📫 You can find me by: jiamengyuan05@163.com 
+- ⚡ Currently working hard to achieve it... 
+- 🌱 jackie said Welcome
+![src=http___c-ssl duitang com_uploads_item_201805_06_20180506204101_pqbdw thumb 1000_0 gif refer=http___c-ssl duitang](https://github.com/QianYuana/QianYuana/assets/102220953/b569958f-ab41-4bdd-929b-7c2b39c758f0)
 
-
-**QianYuana/QianYuana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
